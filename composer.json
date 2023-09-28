@@ -1,0 +1,17 @@
+{
+    "name": "lenovo/hasotechnology-staticsite",
+    "autoload": {
+        "psr-4": {
+            "Lenovo\\HasotechnologyStaticsite\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gowtham",
+            "email": "vmgowtham22@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.8"
+    }
+}
